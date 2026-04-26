@@ -37,10 +37,12 @@ Recognizing human activities from video data is challenging due to variations in
 - NumPy  
 
 ## Demo
-Add sample videos in the `sample_videos/` folder.
 
-Colab Notebook:
-https://colab.research.google.com/drive/1RtTYonaJ7ASX_ZMzcV3t_0jNktheKQF9
+The complete implementation is available in the notebook file included in this repository.
+
+## Notes
+- Dataset not included due to size constraints  
+- This is a proof-of-concept deep learning project  
 
 ## Future Improvements
 - Real-time activity detection  
